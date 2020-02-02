@@ -1,0 +1,3 @@
+Server ID,Sponsor,Server Name,Timestamp,Distance,Ping,Download,Upload,Share,IP Address
+10327,Telekom Malaysia Berhad,Kuala Lumpur,2020-02-02T12:23:01.621490Z,14.0269383364368,65.182,29932769.182846177,8276387.448066665,,124.13.65.219
+10327,Telekom Malaysia Berhad,Kuala Lumpur,2020-02-02T12:24:50.389945Z,14.0269383364368,63.987,21157165.716765862,9117179.584385063,http://www.speedtest.net/result/9001949864.png,124.13.65.219
